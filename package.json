@@ -1,0 +1,31 @@
+{
+  "name": "skyverse",
+  "version": "1.0.0",
+  "description": "Airlines",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Runiitime/skyverse.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "Takoya (Olesya)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Runiitime/skyverse/issues"
+  },
+  "homepage": "https://github.com/Runiitime/skyverse#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.1",
+    "nodemon": "^2.0.2"
+  }
+}
